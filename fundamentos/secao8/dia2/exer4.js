@@ -60,9 +60,9 @@ const books = [
       releaseYear: 1928,
     },
   ];
-  
-  // Adicione o código do exercício aqui:
-  function authorBornIn1947() {
-    // escreva aqui o seu código
-        return books.find((book) => book.author.birthYear === 1947).author.name;
+
+  function booksOrderedByReleaseYearDesc() {
+    // escreva aqui seu código
+    return books.sort((a, b) => b.releaseYear - a.releaseYear);
   }
+  console.log(booksOrderedByReleaseYearDesc())

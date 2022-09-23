@@ -60,9 +60,8 @@ const books = [
       releaseYear: 1928,
     },
   ];
-  
-  // Adicione o código do exercício aqui:
-  function authorBornIn1947() {
-    // escreva aqui o seu código
-        return books.find((book) => book.author.birthYear === 1947).author.name;
+  function getNamedBook() {
+    // escreva seu código aqui
+    return books.find((book) => book.name.length === 26);
   }
+  console.log(getNamedBook());
