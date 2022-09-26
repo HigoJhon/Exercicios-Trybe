@@ -62,7 +62,12 @@ const books = [
   ];
   
   // Adicione o código do exercício aqui:
-  function formatedBookNames() {
+function nameAndAge() {
     // escreva seu código aqui
-   return formate = books.map((books) => `${books.name} - ${books.genre} - ${books.author.name}`)
-  } console.log(formatedBookNames());
+    return resultado = books
+    .map((book)=> ({
+      author: book.author.name,
+      authorAge: book.releaseYear - book.author.birthYear,
+    })).sort((a,b) => a.authorAge - b.authorAge);
+  }
+  console.log(nameAndAge());
