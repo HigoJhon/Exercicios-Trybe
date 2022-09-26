@@ -64,5 +64,5 @@ const books = [
   // Adicione o código do exercício aqui:
   function formatedBookNames() {
     // escreva seu código aqui
-   return formate = books.map((books) => `${books.name} - ${books.genre} - ${books.author.name}`)
+   return books.map((book) => `${book.name} - ${book.genre} - ${book.author.name}`)
   } console.log(formatedBookNames());
