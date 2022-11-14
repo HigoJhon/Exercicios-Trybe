@@ -8,4 +8,5 @@ class Carregar extends Component {
     }
 }
 
+
 export default Carregar;
