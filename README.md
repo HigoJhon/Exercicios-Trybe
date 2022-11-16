@@ -6,7 +6,7 @@ Tudo que estou aprendendo sobre desenvolvimento web pela TRYBE.
 ## Fundamentos do Desenvolvimento Web
 
 ##### Bloco 1: [Introdução - Unix e Shell](https://github.com/HigoJhon/Exercicios-Trybe/tree/main/M%C3%B3dulo01:%20Fundamentos/bloco1-unix-e-shell)
-##### Bloco 2: [Git e GitHub]([https://github.com/HigoJhon/Exercicios-Trybe/tree/main/fundamentos/bloco2](https://github.com/HigoJhon/Exercicios-Trybe/tree/main/M%C3%B3dulo01:%20Fundamentos/bloco2)
+##### Bloco 2: [Git e GitHub](([https://github.com/HigoJhon/Exercicios-Trybe/tree/main/fundamentos/bloco2](https://github.com/HigoJhon/Exercicios-Trybe/tree/main/M%C3%B3dulo01:%20Fundamentos/bloco2))
 ##### Bloco 3: [Introdução à HTML e CSS](https://github.com/HigoJhon/Exercicios-Trybe/tree/main/fundamentos/bloco3-introducao-a-html-e-css)
 ##### Bloco 4: [Introdução à JavaScript e Lógica de Programação](https://github.com/HigoJhon/Exercicios-Trybe/tree/main/fundamentos/bloco4-JavaScript)
 ##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage](https://github.com/HigoJhon/Exercicios-Trybe/tree/main/fundamentos/bloco5-JS-DOM-Eventos-WebStorage)
